@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pipeline-WebApp", "Pipeline-WebApp\Pipeline-WebApp.csproj", "{5456490B-49FB-4669-92B1-7C9BE097A8F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pipeline-WebApp.test", "Pipeline_webApp-test\Pipeline-WebApp.test.csproj", "{EBEDE870-5E35-4408-B6BB-2C2A1BCE6670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5456490B-49FB-4669-92B1-7C9BE097A8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5456490B-49FB-4669-92B1-7C9BE097A8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5456490B-49FB-4669-92B1-7C9BE097A8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5456490B-49FB-4669-92B1-7C9BE097A8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBEDE870-5E35-4408-B6BB-2C2A1BCE6670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEDE870-5E35-4408-B6BB-2C2A1BCE6670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEDE870-5E35-4408-B6BB-2C2A1BCE6670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEDE870-5E35-4408-B6BB-2C2A1BCE6670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59F23A13-E358-4C16-9A0A-A7D4E57C04C1}
+	EndGlobalSection
+EndGlobal
