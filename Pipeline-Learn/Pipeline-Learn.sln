@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pipeline-WebApp", "Pipeline-WebApp\Pipeline-WebApp.csproj", "{5456490B-49FB-4669-92B1-7C9BE097A8F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pipeline-WebApp.test", "Pipeline_webApp-test\Pipeline-WebApp.test.csproj", "{EBEDE870-5E35-4408-B6BB-2C2A1BCE6670}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pipeline-WebApp.Test", "Pipeline_webApp-test\Pipeline-WebApp.Test.csproj", "{EBEDE870-5E35-4408-B6BB-2C2A1BCE6670}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
