@@ -6,6 +6,8 @@ name: Provisioning
 on:
   push:
     branches: [ "main" ]
+    paths:
+      - 'Pipeline-Learn/Provisioning/**'
 
 
 jobs:
