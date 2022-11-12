@@ -37,8 +37,8 @@ jobs:
       run: dotnet publish ./Pipeline-Learn/Pipeline-WebApp/Pipeline-WebApp.csproj -c Release -o ${{env.DOTNET_ROOT}}/GitHubAction-Pipeline-Learn
    
     - name: Upload artifact for deployment job
-     uses: action/upload-artufect@v3
-     with:
+      uses: action/upload-artufect@v3
+      with:
         name: GitHubAction-Pipeline-Learn
         path: ${{env.DOTNET_ROOT}}/GitHubAction-Pipeline-Learn
 
