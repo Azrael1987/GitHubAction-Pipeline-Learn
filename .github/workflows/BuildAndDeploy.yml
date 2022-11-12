@@ -25,4 +25,4 @@ jobs:
     - name: Build
       run: dotnet build  ./Pipeline-Learn/Pipeline-WebApp/Pipeline-WebApp.csproj
     - name: Test
-      run: dotnet test  --verbosity normal ./Pipeline-Learn/Pipeline-WebApp.Test/Pipeline-WebApp.Test.csproj
+      run: dotnet test  --verbosity normal ./Pipeline-Learn/TestProject-PipeLine-Learn/TestProject-PipeLine-Learn.csproj
