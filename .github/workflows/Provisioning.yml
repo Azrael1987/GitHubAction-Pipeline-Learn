@@ -28,3 +28,6 @@ jobs:
         subscriptionId: ${{ secrets.AZURE_SUBSCRIPTION }}
         resourceGroupName: ${{ secrets.AZURE_RG }}
         template: ./Pipeline-Learn/Provisioning/parameters.json
+
+    - name: Logout via Azure CLI
+      run: az logout
