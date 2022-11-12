@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Pipeline-Learn/.vs
+/Pipeline-Learn/Pipeline-Learn/obj
+/Pipeline-Learn/Pipeline-WebApp/obj
+/Pipeline-Learn/Pipeline_webApp-test/obj
+/Pipeline-Learn/Pipeline_webApp-test/bin/Debug/net6.0
+/Pipeline-Learn/Pipeline-WebApp/bin/Debug/net6.0
