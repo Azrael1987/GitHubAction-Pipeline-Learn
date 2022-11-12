@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pipeline-WebApp", "Pipeline-WebApp\Pipeline-WebApp.csproj", "{5456490B-49FB-4669-92B1-7C9BE097A8F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pipeline-WebApp.Test", "Pipeline_webApp-test\Pipeline-WebApp.Test.csproj", "{EBEDE870-5E35-4408-B6BB-2C2A1BCE6670}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject-PipeLine-Learn", "TestProject-PipeLine-Learn\TestProject-PipeLine-Learn.csproj", "{5DBAE485-83B4-492D-9D46-9DFA7E52BC6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{5456490B-49FB-4669-92B1-7C9BE097A8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5456490B-49FB-4669-92B1-7C9BE097A8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5456490B-49FB-4669-92B1-7C9BE097A8F9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EBEDE870-5E35-4408-B6BB-2C2A1BCE6670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EBEDE870-5E35-4408-B6BB-2C2A1BCE6670}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EBEDE870-5E35-4408-B6BB-2C2A1BCE6670}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EBEDE870-5E35-4408-B6BB-2C2A1BCE6670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DBAE485-83B4-492D-9D46-9DFA7E52BC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBAE485-83B4-492D-9D46-9DFA7E52BC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBAE485-83B4-492D-9D46-9DFA7E52BC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBAE485-83B4-492D-9D46-9DFA7E52BC6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
