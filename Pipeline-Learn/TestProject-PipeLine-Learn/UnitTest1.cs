@@ -7,9 +7,10 @@ namespace TestProject_PipeLine_Learn
         {
             int sum = 2+3;
 
+            Assert.Equal(5, sum);
+            Assert.NotEqual(9, sum);
             Assert.True(true);
             Assert.False(false);
-            Assert.Equal(5, sum);
         }
     }
 }
